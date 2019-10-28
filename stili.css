@@ -1,0 +1,76 @@
+a {
+color:red;
+font-size: 20px;
+}
+
+div{
+  color:#fbf704;
+  font-size: 20px;
+}
+
+#moya_ssilka{
+  color:#a2ae2d;
+}
+#moya_ssilka1{
+  font-size: 30px;
+  color:#974774;
+}
+#moya_ssilka2{
+  color:#2294c8;
+}
+
+.human{
+  color: #0acd42;
+  font-size: 30px;
+}
+.animal{
+  color: #ab5fa2;
+  font-size: 50px;
+}
+
+.lion{
+  color: #f0bf56;
+}
+
+.monkey{
+  color: #5f606e;
+}
+
+.fish{
+  color: #2045e9;
+}
+
+.message{
+  color:#691062;
+  background-color:#c29fbf;
+  border: 5px solid #070707;
+  margin-left:30px;
+  margin-right: 30px;
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+.success{
+  background: #01fcdc;
+  color: #ffffff;
+}
+
+.fail{
+  color: #ffffff;
+  background-color:#f1260d;
+}
+
+.info{
+  color: #ffffff;
+  background-color: #0cfa05;
+}
+
+.warning{
+  color:#000000 ;
+  background-color: #fbe400;
+  border: 5px dashed #613d05;
+}
+
+div:hover{
+  border: 2px solid #700a3a;
+}
